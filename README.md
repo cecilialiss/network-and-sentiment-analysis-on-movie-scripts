@@ -1,2 +1,2 @@
-# network-and-sentiment-analysis-on-movie-scripts
+# Network and Sentiment Analysis on Movie Scripts
 Project on visual analytics. 
